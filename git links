@@ -1,5 +1,10 @@
 https://github.com/IIHTDevelopers/VM-Java-Health-App-Dispensary-Automation-PL1-Selenium.git
 
+https://github.com/Yaksha-Assessments/Radiology.git
+
+https://github.com/Yaksha-Assessments/MedicalRecord.git
+======================================================================
+
   <dependency>
         <groupId>org.apache.poi</groupId>
         <artifactId>poi</artifactId>
